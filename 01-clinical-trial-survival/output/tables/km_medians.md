@@ -1,0 +1,4 @@
+|arm             | median_years| events|   n|
+|:---------------|------------:|------:|---:|
+|Placebo         |         9.39|     60| 154|
+|D-penicillamine |         8.99|     65| 158|

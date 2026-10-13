@@ -1,0 +1,8 @@
+"term","hr","lower","upper","p_value"
+"armD-penicillamine",0.927,0.635,1.35,"0.6941"
+"I(age/10)",1.42,1.19,1.68,"<0.001"
+"log2(bili)",1.84,1.61,2.11,"<0.001"
+"log2(albumin)",0.118,0.0442,0.315,"<0.001"
+"log2(protime)",7.83,1.93,31.7,"0.0039"
+"edemaUntreated/resolved",1.16,0.668,2.02,"0.5978"
+"edemaDespite diuretics",2.45,1.34,4.49,"0.0035"

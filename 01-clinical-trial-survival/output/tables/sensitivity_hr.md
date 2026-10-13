@@ -1,0 +1,8 @@
+|analysis                                       |    hr| lower| upper|p_value |
+|:----------------------------------------------|-----:|-----:|-----:|:-------|
+|Primary: unadjusted Cox, death                 | 1.060| 0.745|  1.50|0.75    |
+|Adjusted Cox (Mayo covariates)                 | 0.927| 0.635|  1.35|0.69    |
+|Adjusted Cox, time-varying prothrombin effect  | 0.911| 0.624|  1.33|0.63    |
+|Cox stratified by histologic stage             | 1.110| 0.779|  1.59|0.56    |
+|Composite: death or transplant                 | 1.060| 0.764|  1.47|0.73    |
+|Fine-Gray: death, transplant as competing risk | 1.050| 0.743|  1.47|0.80    |

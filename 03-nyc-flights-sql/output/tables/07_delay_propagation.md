@@ -1,0 +1,8 @@
+**Q7. Do delays snowball? For each aircraft, compare a departure's delay with**
+
+| previous_departure   |   flights |   avg_dep_delay_min |   pct_departing_15_plus_late |
+|:---------------------|----------:|--------------------:|-----------------------------:|
+| 1. on time or early  |     57064 |                12.3 |                         22   |
+| 2. 1-15 min late     |     10809 |                22.3 |                         35.2 |
+| 3. 16-60 min late    |      7948 |                36.4 |                         54.6 |
+| 4. > 60 min late     |      3607 |                81.3 |                         82.6 |

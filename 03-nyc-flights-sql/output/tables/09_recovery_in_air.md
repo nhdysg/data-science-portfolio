@@ -1,0 +1,8 @@
+**Q9. When a flight leaves late, how much time does it make up in the air?**
+
+| distance_band     |   late_departures |   avg_dep_delay_min |   avg_arr_delay_min |   minutes_recovered |
+|:------------------|------------------:|--------------------:|--------------------:|--------------------:|
+| 1. < 500 mi       |             17786 |                67.7 |                65.3 |                 2.3 |
+| 2. 500-999 mi     |             23568 |                68.7 |                66   |                 2.7 |
+| 3. 1,000-1,999 mi |             19275 |                64.1 |                59.6 |                 4.5 |
+| 4. 2,000+ mi      |              9659 |                61.3 |                53.7 |                 7.6 |

@@ -1,0 +1,12 @@
+| feature           |   coefficient |
+|:------------------|--------------:|
+| PAY_1             |        -0.635 |
+| max_delinquency   |        -0.315 |
+| PAY_3             |        -0.188 |
+| PAY_AMT1          |        -0.32  |
+| LIMIT_BAL         |        -0.287 |
+| PAY_AMT2          |        -0.343 |
+| avg_payment_ratio |        -0.229 |
+| avg_utilization   |        -0.205 |
+| bill_growth       |        -0.386 |
+| utilization       |        -0.089 |

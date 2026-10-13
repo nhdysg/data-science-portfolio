@@ -1,0 +1,4 @@
+|   |model                    |term               | estimate| std_error| conf_low| conf_high| p_value| pct_effect|
+|:--|:------------------------|:------------------|--------:|---------:|--------:|---------:|-------:|----------:|
+|2  |4. log(weeks on Hot 100) |western_collabTRUE |    0.162|    0.1460|   -0.127|     0.451|   0.269|       17.6|
+|3  |4. log(weeks on Hot 100) |log(debut_pos)     |   -0.568|    0.0675|   -0.702|    -0.435|   0.000|      -43.3|

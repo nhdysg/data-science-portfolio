@@ -1,0 +1,8 @@
+"model","term","estimate","std_error","conf_low","conf_high","p_value","pct_effect"
+"1. log(weeks in first year)","kpopTRUE",-0.606,0.077,-0.757,-0.455,6.09e-15,-45.5
+"1. log(weeks in first year)","log(debut_pos)",-0.735,0.0188,-0.772,-0.698,2.83e-243,-52.1
+"2. ... with interaction","kpopTRUE",-0.736,0.145,-1.02,-0.452,3.97e-07,-52.1
+"2. ... with interaction","log(debut_pos)",-0.74,0.0198,-0.779,-0.701,1.34e-227,-52.3
+"2. ... with interaction","kpopTRUE:log(debut_pos)",0.0731,0.0555,-0.0358,0.182,0.188,7.58
+"3. log(week-2 pos / debut pos)","kpopTRUE",0.381,0.0733,0.238,0.525,2.15e-07,46.4
+"3. log(week-2 pos / debut pos)","log(debut_pos)",-0.0474,0.019,-0.0846,-0.0101,0.0128,-4.63

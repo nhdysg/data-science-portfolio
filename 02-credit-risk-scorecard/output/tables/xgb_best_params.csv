@@ -1,0 +1,2 @@
+max_depth,min_child_weight,n_estimators,cv_auc
+3,10,200,0.781

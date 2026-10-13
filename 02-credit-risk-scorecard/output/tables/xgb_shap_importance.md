@@ -1,0 +1,15 @@
+| feature           |   mean_abs_shap |
+|:------------------|----------------:|
+| PAY_1             |          0.3827 |
+| months_delinquent |          0.2323 |
+| max_delinquency   |          0.1822 |
+| BILL_AMT1         |          0.1702 |
+| PAY_AMT2          |          0.1286 |
+| LIMIT_BAL         |          0.1105 |
+| utilization       |          0.1035 |
+| PAY_AMT1          |          0.0859 |
+| avg_utilization   |          0.0799 |
+| avg_payment_ratio |          0.0763 |
+| bill_growth       |          0.064  |
+| PAY_2             |          0.007  |
+| PAY_3             |          0.0057 |

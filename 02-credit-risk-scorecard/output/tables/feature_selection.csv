@@ -1,0 +1,14 @@
+feature,iv,strength,decision
+PAY_1,0.851,very strong,kept
+months_delinquent,0.813,very strong,dropped: correlated > 0.7 with a higher-IV feature
+max_delinquency,0.727,very strong,kept
+PAY_2,0.514,very strong,dropped: wrong-sign coefficient (collinearity)
+PAY_3,0.398,strong,kept
+PAY_AMT1,0.156,medium,kept
+LIMIT_BAL,0.153,medium,kept
+PAY_AMT2,0.137,medium,kept
+avg_payment_ratio,0.126,medium,kept
+avg_utilization,0.074,weak,kept
+bill_growth,0.053,weak,kept
+utilization,0.052,weak,kept
+BILL_AMT1,0.009,unpredictive,dropped: IV < 0.02

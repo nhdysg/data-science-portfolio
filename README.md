@@ -8,5 +8,6 @@ Projects in statistics and analytics for finance, consulting and healthcare. Eac
 | 02 | [Credit card default risk: scorecard vs. gradient boosting](02-credit-risk-scorecard/) | WOE/IV scorecard, XGBoost, KS/Gini/PSI, calibration, SHAP, fair-lending check, collections strategy | Python |
 | 03 | [NYC flight delays: SQL analysis and dashboard](03-nyc-flights-sql/) | Joins, CTEs, window functions, data-quality checks, mix adjustment, Streamlit dashboard | SQL (DuckDB), Python |
 | 04 | [K-pop in the US market: fandom albums vs. mainstream hits](04-kpop-us-market/) | SQL entity matching, linear regression with log transforms, fixed effects and robust SEs, market-entry recommendation | SQL, Python, R |
+| 05 | [Did Coachella grow BLACKPINK's Western audience?](05-blackpink-coachella/) | Event study, difference-in-differences, triple difference with a benchmark song, robustness to control group | Python |
 
 More projects are on the way: an A/B testing case study and a pharmaceutical market-sizing case.

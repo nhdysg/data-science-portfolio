@@ -1,0 +1,5 @@
+control,method,estimate_pct,ci_low_pct,ci_high_pct,p_value,n_obs
+Asia,naive,17.5,5.2,31.3,0.004,30
+Asia,ddd,6.4,-9.3,24.8,0.444,60
+All non-West,naive,8.3,2.8,14.0,0.003,63
+All non-West,ddd,-10.0,-17.0,-2.4,0.01,126
